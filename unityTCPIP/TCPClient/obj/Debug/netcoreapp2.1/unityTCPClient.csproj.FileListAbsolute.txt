@@ -22,3 +22,16 @@
 /home/raghav/code/unityDL/unityTCPIP/unityTCPClient/obj/Debug/netcoreapp2.1/unityTCPClient.dll
 /home/raghav/code/unityDL/unityTCPIP/unityTCPClient/obj/Debug/netcoreapp2.1/unityTCPClient.pdb
 /home/raghav/code/unityDL/unityTCPIP/unityTCPClient/obj/Debug/netcoreapp2.1/unityTCPClient.genruntimeconfig.cache
+/home/raghav/code/unityDL/unityTCPIP/TCPClient/bin/Debug/netcoreapp2.1/unityTCPClient.deps.json
+/home/raghav/code/unityDL/unityTCPIP/TCPClient/bin/Debug/netcoreapp2.1/unityTCPClient.runtimeconfig.json
+/home/raghav/code/unityDL/unityTCPIP/TCPClient/bin/Debug/netcoreapp2.1/unityTCPClient.runtimeconfig.dev.json
+/home/raghav/code/unityDL/unityTCPIP/TCPClient/bin/Debug/netcoreapp2.1/unityTCPClient.dll
+/home/raghav/code/unityDL/unityTCPIP/TCPClient/bin/Debug/netcoreapp2.1/unityTCPClient.pdb
+/home/raghav/code/unityDL/unityTCPIP/TCPClient/obj/Debug/netcoreapp2.1/unityTCPClient.csproj.AssemblyReference.cache
+/home/raghav/code/unityDL/unityTCPIP/TCPClient/obj/Debug/netcoreapp2.1/unityTCPClient.GeneratedMSBuildEditorConfig.editorconfig
+/home/raghav/code/unityDL/unityTCPIP/TCPClient/obj/Debug/netcoreapp2.1/unityTCPClient.AssemblyInfoInputs.cache
+/home/raghav/code/unityDL/unityTCPIP/TCPClient/obj/Debug/netcoreapp2.1/unityTCPClient.AssemblyInfo.cs
+/home/raghav/code/unityDL/unityTCPIP/TCPClient/obj/Debug/netcoreapp2.1/unityTCPClient.csproj.CoreCompileInputs.cache
+/home/raghav/code/unityDL/unityTCPIP/TCPClient/obj/Debug/netcoreapp2.1/unityTCPClient.dll
+/home/raghav/code/unityDL/unityTCPIP/TCPClient/obj/Debug/netcoreapp2.1/unityTCPClient.pdb
+/home/raghav/code/unityDL/unityTCPIP/TCPClient/obj/Debug/netcoreapp2.1/unityTCPClient.genruntimeconfig.cache

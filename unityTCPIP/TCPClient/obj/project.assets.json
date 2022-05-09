@@ -693,11 +693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/raghav/code/unityDL/unityTCPIP/unityTCPClient/unityTCPClient.csproj",
+      "projectUniqueName": "/home/raghav/code/unityDL/unityTCPIP/TCPClient/unityTCPClient.csproj",
       "projectName": "unityTCPClient",
-      "projectPath": "/home/raghav/code/unityDL/unityTCPIP/unityTCPClient/unityTCPClient.csproj",
+      "projectPath": "/home/raghav/code/unityDL/unityTCPIP/TCPClient/unityTCPClient.csproj",
       "packagesPath": "/home/raghav/.nuget/packages/",
-      "outputPath": "/home/raghav/code/unityDL/unityTCPIP/unityTCPClient/obj/",
+      "outputPath": "/home/raghav/code/unityDL/unityTCPIP/TCPClient/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/raghav/.nuget/NuGet/NuGet.Config"

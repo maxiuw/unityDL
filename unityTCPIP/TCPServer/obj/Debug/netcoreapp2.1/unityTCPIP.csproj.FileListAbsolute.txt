@@ -33,3 +33,16 @@
 /home/raghav/code/unityDL/unityTCPIP/unityTCPIPserver/obj/Debug/netcoreapp2.1/unityTCPIP.dll
 /home/raghav/code/unityDL/unityTCPIP/unityTCPIPserver/obj/Debug/netcoreapp2.1/unityTCPIP.pdb
 /home/raghav/code/unityDL/unityTCPIP/unityTCPIPserver/obj/Debug/netcoreapp2.1/unityTCPIP.genruntimeconfig.cache
+/home/raghav/code/unityDL/unityTCPIP/TCPServer/bin/Debug/netcoreapp2.1/unityTCPIP.deps.json
+/home/raghav/code/unityDL/unityTCPIP/TCPServer/bin/Debug/netcoreapp2.1/unityTCPIP.runtimeconfig.json
+/home/raghav/code/unityDL/unityTCPIP/TCPServer/bin/Debug/netcoreapp2.1/unityTCPIP.runtimeconfig.dev.json
+/home/raghav/code/unityDL/unityTCPIP/TCPServer/bin/Debug/netcoreapp2.1/unityTCPIP.dll
+/home/raghav/code/unityDL/unityTCPIP/TCPServer/bin/Debug/netcoreapp2.1/unityTCPIP.pdb
+/home/raghav/code/unityDL/unityTCPIP/TCPServer/obj/Debug/netcoreapp2.1/unityTCPIP.csproj.AssemblyReference.cache
+/home/raghav/code/unityDL/unityTCPIP/TCPServer/obj/Debug/netcoreapp2.1/unityTCPIP.GeneratedMSBuildEditorConfig.editorconfig
+/home/raghav/code/unityDL/unityTCPIP/TCPServer/obj/Debug/netcoreapp2.1/unityTCPIP.AssemblyInfoInputs.cache
+/home/raghav/code/unityDL/unityTCPIP/TCPServer/obj/Debug/netcoreapp2.1/unityTCPIP.AssemblyInfo.cs
+/home/raghav/code/unityDL/unityTCPIP/TCPServer/obj/Debug/netcoreapp2.1/unityTCPIP.csproj.CoreCompileInputs.cache
+/home/raghav/code/unityDL/unityTCPIP/TCPServer/obj/Debug/netcoreapp2.1/unityTCPIP.dll
+/home/raghav/code/unityDL/unityTCPIP/TCPServer/obj/Debug/netcoreapp2.1/unityTCPIP.pdb
+/home/raghav/code/unityDL/unityTCPIP/TCPServer/obj/Debug/netcoreapp2.1/unityTCPIP.genruntimeconfig.cache

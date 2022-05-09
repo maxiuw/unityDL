@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6Q20wnbrcKQ6kYb6BL7xXKu2IBXKYBXkEBR3M9kwqpT4lk4jMhsMCSo+R5rtLS7yfZ4GHz90UDhJHKwTCPhSpg==",
+  "dgSpecHash": "w2nTssSdXG1ePN8h4Xf+iXZAroU1ZWhIRKQhuZ9UD2g2u+5sK6tMExMHoHbvKbDkznjY/9Lz/6OVlf/Y0J7HtQ==",
   "success": true,
-  "projectFilePath": "/home/raghav/code/unityDL/unityTCPIP/unityTCPIPserver/unityTCPIP.csproj",
+  "projectFilePath": "/home/raghav/code/unityDL/unityTCPIP/TCPServer/unityTCPIP.csproj",
   "expectedPackageFiles": [
     "/home/raghav/.nuget/packages/microsoft.netcore.app/2.1.0/microsoft.netcore.app.2.1.0.nupkg.sha512",
     "/home/raghav/.nuget/packages/microsoft.netcore.dotnetapphost/2.1.0/microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
