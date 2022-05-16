@@ -16,16 +16,25 @@ public class ReceivePosition : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-	   osc.SetAddressHandler( "/CubeXYZ" , OnReceiveXYZ );
-       osc.SetAddressHandler("/CubeX", OnReceiveX);
-       osc.SetAddressHandler("/CubeY", OnReceiveY);
-       osc.SetAddressHandler("/CubeZ", OnReceiveZ);
+        foreach (OscMessage m in osc.messagesReceived) {
+            string substr = m.address.Substring(m.address.Length-3, 3); // start, length
+            if (substr == "XYZ") {
+                OnReceiveXYZ(m);
+            } else if (m.address.Substring(m.address.Length-1, 1) == "X") 
+                OnReceiveX(m);
+            else if (m.address.Substring(m.address.Length-1, 1) == "Y")
+                 OnReceiveY(m);
+            else if (m.address.Substring(m.address.Length-1, 1) == "Z")
+                 OnReceiveZ(m);
+            // Debug.Log($"{m.address.Substring(m.address.Length-3, 3)} val {m.values} {m.GetInt(0)}"); //.Substring(m.address.Length-4, m.address.Length-2)
+
+        }
 	}
 
 	void OnReceiveXYZ(OscMessage message){
         Debug.Log($"I recieved {message}");
 		float x = message.GetInt(0);
-         float y = message.GetInt(1);
+        float y = message.GetInt(1);
 		float z = message.GetInt(2);
 
 		transform.position = new Vector3(x,y,z);
@@ -43,7 +52,7 @@ public class ReceivePosition : MonoBehaviour {
     }
 
     void OnReceiveY(OscMessage message) {
-        Debug.Log($"I recieved {message}");
+        
         float y = message.GetFloat(0);
 
         Vector3 position = transform.position;
@@ -54,7 +63,6 @@ public class ReceivePosition : MonoBehaviour {
     }
 
     void OnReceiveZ(OscMessage message) {
-        Debug.Log($"I recieved {message}");
         float z = message.GetFloat(0);
 
         Vector3 position = transform.position;
